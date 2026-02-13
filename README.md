@@ -1,5 +1,11 @@
 # Two-Layer-Climate-Model
-Expert verification needed.
+<br>
+This project took 3 hours.
+<br>
+Verification needed from experts to see how advanced LLMs are.
+If you think this is AI
+# Then you are correct.
+# 
 <br>
 ![alt text](image.png)
 <br>
